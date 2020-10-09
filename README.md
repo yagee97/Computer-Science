@@ -1,6 +1,6 @@
 # Computer Science
 
-:calendar: 면접 대비용 CS repository
+:calendar:  CS repository
 
 <br>
 
